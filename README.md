@@ -2,8 +2,7 @@
 <h3 align="center">A mobile app developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidisidahmed&label=Profile%20views&color=0e75b6&style=flat" alt="hamidisidahmed" /> </p>
-
-
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.fr/pin/49539664647002369/">
 - 📫 How to reach me **hamidisidahmed16.21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
