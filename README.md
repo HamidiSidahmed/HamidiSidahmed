@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HAMIDI SIDAHMED</h1>
 <h3 align="center">A mobile app developer from Algeria</h3>
 
-<img align="center" alt="Coding" width="800" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidisidahmed&label=Profile%20views&color=0e75b6&style=flat" alt="hamidisidahmed" /> </p>
 - 📫 How to reach me **hamidisidahmed16.21@gmail.com**
 
